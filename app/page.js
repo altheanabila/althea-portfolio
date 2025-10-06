@@ -28,7 +28,7 @@ export default function Home() {
                 className="bg-white p-10 rounded-2xl shadow-lg flex flex-col md:flex-row items-center gap-8"
             >
                 <img
-                    src="/profile.jpg"
+                    src="/profile.72074844.png"
                     alt="Profile"
                     className="w-32 h-32 rounded-full border-4 border-blue-500 shadow-md"
                 />
