@@ -21,6 +21,7 @@ export default function Home() {
 
     return (
         <div>
+
             {/* About Section */}
             <section
                 id="about"
@@ -40,8 +41,10 @@ export default function Home() {
                 </div>
             </section>
 
+
+
             {/* Projects Section */}
-            <section id="projects" className="space-y-8">
+            <section id="projects" className="space-y-8 mt-16">
                 <h2 className="text-3xl font-bold text-center">Projects</h2>
                 <div className="grid md:grid-cols-2 gap-8">
                     {projects.map((p, i) => (
