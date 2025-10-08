@@ -3,9 +3,9 @@ import ProjectCard from "../components/ProjectCard";
 export default function Home() {
     const projects = [
         {
-            title: "Image Classifier",
-            description: "CNN model trained on CIFAR-10 dataset with 92% accuracy.",
-            link: "https://github.com/yourgithub/image-classifier",
+            title: "Interaktive Dashboard",
+            description: "Ein Dashboard, das mit Java, Vaadin, Spring Boot und ein wenig React entwickelt wurde. Dieses wird mit Vercel, Railway und GitHub bereitgestellt",
+            link: "https://interaktive-dashboard-3p9w.vercel.app/",
         },
         {
             title: "Sentiment Analyzer",
@@ -33,10 +33,9 @@ export default function Home() {
                     className="w-32 h-32 rounded-full border-4 border-blue-500 shadow-md"
                 />
                 <div>
-                    <h2 className="text-3xl font-bold mb-3">Hello, I’m [Your Name]</h2>
+                    <h2 className="text-3xl font-bold mb-3">Hallo, ich bin Althea</h2>
                     <p className="text-gray-700 leading-relaxed">
-                        I’m a machine learning enthusiast and web developer. I enjoy building ML models and deploying apps with React, Next.js, and Vercel.
-                        Here you can explore my projects, skills, and CV.
+                        "Ich bin leidenschaftlich an Softwareentwicklung, Datenanalyse und Machine Learning interessiert. Alles rund um Java, Python, Webservices, Spring Boot, Machine Learning und Datenanalyse macht mir Spaß. Unten finden Sie mein Portfolio an persönlichen Projekten.
                     </p>
                 </div>
             </section>
