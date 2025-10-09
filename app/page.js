@@ -36,7 +36,7 @@ export default function Home() {
                 <div>
                     <h2 className="text-3xl font-bold mb-3">Hallo, ich bin Althea Nabila</h2>
                     <p className="text-gray-700 leading-relaxed">
-                        "Ich bin leidenschaftlich an Softwareentwicklung, Datenanalyse und Machine Learning interessiert. Alles rund um Java, Python, Webservices, Spring Boot, Machine Learning und Datenanalyse macht mir Spaß. Unten finden Sie mein Portfolio an persönlichen Projekten.
+                        "Ich bin leidenschaftlich an Softwareentwicklung, Datenanalyse und Machine Learning interessiert. Alles rund um Java, Python, Webservices, Spring Boot, Machine Learning und Datenanalyse macht mir Spaß. Unten finden Sie mein Portfolio an persönlichen Projekten."
                     </p>
                 </div>
             </section>
