@@ -8,14 +8,15 @@ export default function Home() {
             link: "https://interaktive-dashboard-3p9w.vercel.app/",
         },
         {
-            title: "Sentiment Analyzer",
-            description: "NLP model for sentiment analysis using BERT.",
-            link: "https://github.com/yourgithub/sentiment-analyzer",
+            title: "Analysis with Linear Regression California Housing",
+            description: "Ein kleines, gut strukturiertes Demo-Projekt, das lineare Regression (geschlossene Form + Gradientenabstieg)\n" +
+                "am California Housing-Datensatz demonstriert.",
+            link: "https://github.com/altheanabila/machine-learning-projects-california-housing",
         },
         {
             title: "Portfolio Web App",
             description: "Deployed on Vercel showcasing React + Next.js + Tailwind.",
-            link: "https://your-vercel-app.vercel.app",
+            link: "https://github.com/altheanabila/althea-portfolio",
         },
     ];
 
@@ -33,7 +34,7 @@ export default function Home() {
                     className="w-32 h-32 rounded-full border-4 border-blue-500 shadow-md"
                 />
                 <div>
-                    <h2 className="text-3xl font-bold mb-3">Hallo, ich bin Althea</h2>
+                    <h2 className="text-3xl font-bold mb-3">Hallo, ich bin Althea Nabila</h2>
                     <p className="text-gray-700 leading-relaxed">
                         "Ich bin leidenschaftlich an Softwareentwicklung, Datenanalyse und Machine Learning interessiert. Alles rund um Java, Python, Webservices, Spring Boot, Machine Learning und Datenanalyse macht mir Spaß. Unten finden Sie mein Portfolio an persönlichen Projekten.
                     </p>
